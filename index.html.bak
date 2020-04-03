@@ -1,29 +1,34 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=windows-1252">
-    <title>&#1087;&#1091;&#1090;&#1080;&#1085;</title>
+    <title>?????</title>
   </head>
-  <body style="background-color: #ffcc00;"><audio src="concerto1.mp3" preload="none"
+  <body style="   background-color: #ffcc00;"><audio src="concerto1.mp3" preload="none"
+
       body="" {="" background-color:="" #d8da3d="" }="" autoplay="autoplay" loop="loop"></audio>
-    <h1 style="text-align: center; background-color: blue;"><span style="color: #ffcccc;">&#1084;&#1099;
-        &#1092;&#1072;&#1085;&#1072;&#1090;&#1099; &#1042;&#1083;&#1072;&#1076;&#1080;&#1084;&#1080;&#1088;&#1072; &#1055;&#1091;&#1090;&#1080;&#1085;&#1072;!</span></h1>
+    <h1 style="text-align: center; background-color: blue;"><span style="color: #ffcccc;">??
+        ?????? ????????? ??????!</span></h1>
     <h2 style="background-color: blue;"> </h2>
-    <h1 style="text-align: center; background-color: red;"><span style="color: #d8da3d;">&#1083;&#1102;&#1073;&#1083;&#1102;
-        &#1087;&#1091;&#1090;&#1080;&#1085;&#1072;!</span> </h1>
+    <marquee behavior="alternate" direction="left"><span style="color: #d8da3d;"></span>????????
+      ?????=?????????? ????</marquee>
+    <h1 style="text-align: center; background-color: red;"><span style="color: #d8da3d;">?????
+        ??????!</span> </h1>
     <h1 style="text-align: center; background-color: #FF0000;"></h1>
     <p><br>
     </p>
-    <p style="text-align:center;"><span style="color: #4da9c6;"><u><b><i>&#1074;&#1083;&#1072;&#1076;&#1080;&#1084;&#1080;&#1088;
-              &#1087;&#1091;&#1090;&#1080;&#1085; &#1087;&#1086;&#1076;&#1085;&#1103;&#1083; &#1088;&#1086;&#1089;&#1089;&#1080;&#1102;&#1096;&#1082;&#1091; &#1089; &#1082;&#1086;&#1083;&#1077;&#1085;</i></b></u></span></p>
+    <p style="text-align:center;"><span style="color: #4da9c6;"><u><b><i>????????
+              ????? ?????? ????????? ? ?????</i></b></u></span></p>
     <ul>
-      <li> <a href="contact.html" style="color: white;">&#1086; &#1085;&#1072;&#1096;&#1077;&#1081; &#1086;&#1088;&#1075;&#1072;&#1085;&#1080;&#1079;&#1072;&#1094;&#1080;&#1080;</a></li>
-      <li><a href="photogalery.html"
-          style="color: white;">&#1092;&#1086;&#1090;&#1086;&#1075;&#1072;&#1083;&#1077;&#1088;&#1077;&#1103;</a></li>
+      <li> <a href="contact.html" style="color: white;">? ????? ???????????</a></li>
+      <li><a href="file:///C:/Users/softkinetic/Documents/GitHub/your-voice.github.io/photogalery.html"
+
+          style="color: white;">???????????</a></li>
     </ul>
-    <p style="text-align: center; color: white;"><strong><em>&#1089;&#1082;&#1072;&#1078;&#1077;&#1084; &#1089;&#1087;&#1072;&#1089;&#1080;&#1073;&#1086;
-          &#1085;&#1072;&#1096;&#1077;&#1084;&#1091; &#1074;&#1086;&#1078;&#1076;&#1102;!<img src="1.gif" alt="&#1082;&#1086;&#1090;" title="&#1082;&#1086;&#1090;" style="width: 242px; height: 205px;"><img
-            src="2.jpg" alt="&#1087;&#1091;&#1090;&#1080;&#1085;" title="&#1087;&#1091;&#1090;&#1080;&#1085;"></em></strong></p>
-    &#1089;&#1087;&#1072;&#1089;&#1080;&#1073;&#1086; &#1079;&#1072; &#1074;&#1085;&#1080;&#1084;&#1072;&#1085;&#1080;&#1077;
+    <p style="text-align: center; color: white;"><strong><em>?????? ???????
+          ?????? ?????!<img src="1.gif" alt="???" title="???" style="width: 242px; height: 205px;"><img
+
+            src="2.jpg" alt="?????" title="?????"></em></strong></p>
+    ??????? ?? ????????
     <style>img {
   margin: 0 auto;
   display: block;
