@@ -195,9 +195,6 @@ h5,
 
 .site-footer .border-top {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
-    font-family: 'Quicksand', sans-serif;
-    font-size: 35px;
-    background-color: rgba(50, 219, 198, 0.13);
 }
 
 .site-footer p {
