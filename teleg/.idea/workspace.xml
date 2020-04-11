@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="872b8e56-eb7c-4a2f-b542-9d369d081276" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aD2wjgwpCBPQdUqHdEZh6mnWkI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python&#10;Markdown" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\softkinetic\PycharmProjects\teleg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.teleg">
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="teleg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teleg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="teleg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teleg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.teleg" />
+        <item itemvalue="Python.scratch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="872b8e56-eb7c-4a2f-b542-9d369d081276" name="Default Changelist" comment="" />
+      <created>1586256085049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586256085049</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="144" key="FileChooserDialogImpl" timestamp="1586256193620">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="389" y="144" key="FileChooserDialogImpl/0.0.1216.771@0.0.1216.771" timestamp="1586256193620" />
+    <state width="1195" height="240" key="GridCell.Tab.0.bottom" timestamp="1586454291038">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1195" height="240" key="GridCell.Tab.0.bottom/0.0.1216.771@0.0.1216.771" timestamp="1586454291038" />
+    <state width="1195" height="240" key="GridCell.Tab.0.center" timestamp="1586454291038">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1195" height="240" key="GridCell.Tab.0.center/0.0.1216.771@0.0.1216.771" timestamp="1586454291038" />
+    <state width="1195" height="240" key="GridCell.Tab.0.left" timestamp="1586454291038">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1195" height="240" key="GridCell.Tab.0.left/0.0.1216.771@0.0.1216.771" timestamp="1586454291038" />
+    <state width="1195" height="240" key="GridCell.Tab.0.right" timestamp="1586454291038">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1195" height="240" key="GridCell.Tab.0.right/0.0.1216.771@0.0.1216.771" timestamp="1586454291038" />
+    <state width="1195" height="240" key="GridCell.Tab.1.bottom" timestamp="1586454291039">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1195" height="240" key="GridCell.Tab.1.bottom/0.0.1216.771@0.0.1216.771" timestamp="1586454291039" />
+    <state width="1195" height="240" key="GridCell.Tab.1.center" timestamp="1586454291039">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1195" height="240" key="GridCell.Tab.1.center/0.0.1216.771@0.0.1216.771" timestamp="1586454291039" />
+    <state width="1195" height="240" key="GridCell.Tab.1.left" timestamp="1586454291038">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1195" height="240" key="GridCell.Tab.1.left/0.0.1216.771@0.0.1216.771" timestamp="1586454291038" />
+    <state width="1195" height="240" key="GridCell.Tab.1.right" timestamp="1586454291039">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1195" height="240" key="GridCell.Tab.1.right/0.0.1216.771@0.0.1216.771" timestamp="1586454291039" />
+    <state x="120" y="32" key="SettingsEditor" timestamp="1586354530777">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="120" y="32" key="SettingsEditor/0.0.1216.771@0.0.1216.771" timestamp="1586354530777" />
+    <state x="319" y="214" key="com.intellij.ide.util.TipDialog" timestamp="1586256121968">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="319" y="214" key="com.intellij.ide.util.TipDialog/0.0.1216.771@0.0.1216.771" timestamp="1586256121968" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/teleg.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
