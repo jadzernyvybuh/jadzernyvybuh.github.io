@@ -4938,3 +4938,9 @@
     display: none;
   }
 }
+
+@media screen and (min-width: 1250px){
+	#hide{
+		width: 100vw
+	}
+}
