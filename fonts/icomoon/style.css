@@ -4933,4 +4933,8 @@
 		width: 100vh
 	}
 }*/
-
+@media screen and (max-width: 1081px) {
+  #hide{
+    display: none;
+  }
+}
