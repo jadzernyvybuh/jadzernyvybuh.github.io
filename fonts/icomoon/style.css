@@ -4923,6 +4923,13 @@
 }
 
 }
-.container1{  display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 50px 50px;}
+@media only screen and (max-width: 375px)	{
+	div{
+		width: 375px
+	}
+}
+@media only screen and (max-width: 1080px)	{
+	div{
+		width: 1080px
+	}
+}
