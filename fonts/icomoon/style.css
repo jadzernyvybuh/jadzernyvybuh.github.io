@@ -4930,6 +4930,6 @@
 }
 @media only screen and (max-width: 1080px)	{
 	div{
-		width: 7cm
+		width: 100vh
 	}
 }
