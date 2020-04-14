@@ -4917,3 +4917,33 @@
 .icon-zoom_out_map:before {
   content: "\e56b";
 }
+
+@media (width:375px){
+.audiovolna {
+}
+
+}
+/*@media only screen and (max-width: 375px)	{
+	div{
+		width: 375px
+	}
+}
+@media only screen and (max-width: 1080px)	{
+	div{
+		width: 100vh
+	}
+}*/
+@media screen and (max-width: 1080px) {
+  #hide{
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1500px){
+	#hide{
+		width: 100vw
+			
+	}
+	.container{ flex-direction: row
+	}
+}
