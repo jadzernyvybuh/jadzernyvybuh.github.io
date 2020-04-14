@@ -4917,3 +4917,12 @@
 .icon-zoom_out_map:before {
   content: "\e56b";
 }
+
+@media (width:375px){
+.audiovolna {
+}
+
+}
+.container1{  display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 50px 50px;}
