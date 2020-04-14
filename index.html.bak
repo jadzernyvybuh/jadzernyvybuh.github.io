@@ -93,7 +93,7 @@
           </div>
         </div>
       </header>
-      <div class="aos-animate aos-init overlay site-blocks-cover text-white" style="background-image: url(images/1.svg);"
+      <div class="aos-animate aos-init overlay site-blocks-cover text-white" style="background-image: url(images/1.svg); width: 100%;"
 
         data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
@@ -116,8 +116,9 @@
                 <div class="number-behind">01.</div>
                 <h2 class="text-primary">here</h2>
                 <p>your e-mail</p>
-                <p class="mb-4 text-justify">leave your e-mail below and we will
-                  send you a form, where you can record your voice on it</p>
+                <p class="mb-4 text-justify" style="width: 165px;">leave your
+                  e-mail below and we will send you a form, where you can record
+                  your voice on it</p>
                 <ul class="list-unstyled primary ul-check">
                 </ul>
               </div>
@@ -127,11 +128,16 @@
                 <div class="number-behind">02.</div>
                 <h2 class="text-primary">Record </h2>
                 <p style="margin-top: -1px;"><strong>your voice</strong></p>
-                <p class="mb-4">if an e-mail is not for you ,you can send</p>
-                <p class="mb-4">your voice ,using telegram bot or other</p>
-                <p class="mb-4"> social networks. you can say just "hello, </p>
-                <p class="mb-4">how are you" or tell us a little story.</p>
-                <p class="mb-4"> in general, you can say what do you whant.</p>
+                <br>
+                <div style="text-align: justify;">
+                  <blockquote>
+                    <blockquote>if an e-mail is not for you ,you can send your
+                      voice, using telegram bot or other social networks. you
+                      can say just "hello, how are you" or tell us a little
+                      story. in general, you can say what do you whant.<br>
+                    </blockquote>
+                  </blockquote>
+                </div>
                 <p class="mb-4"></p>
                 <ul class="list-unstyled primary ul-check">
                   <li><br>
@@ -145,26 +151,24 @@
               </div>
             </div>
             <div class="col-lg-4 col-md-6">
-              <div class="box-with-humber p-3 text-justify">
+              <div class="box-with-humber p-3 text-justify container1">
                 <div class="number-behind">03.</div>
                 <h2 class="text-primary">Invest</h2>
                 <p><strong>in development of AI</strong></p>
-                <p class="mb-4">with YOUR voice WE will create the future </p>
-                <p class="mb-4">of AI</p>
+                <p class="mb-4">with YOUR voice WE will create the future of AI</p>
                 <ul class="list-unstyled primary ul-check">
                 </ul>
               </div>
             </div>
             <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSclow_UEGtYp2lOjPPEvCuN9ywY-pTbQAX0lFqGK1BV0BK8Aw/viewform?embedded=true"
 
-              marginheight="0" marginwidth="0" height="407" frameborder="0" width="640">Загрузка&amp;amp;amp;amp;hellip;</iframe>
+              marginheight="0" marginwidth="0" height="407" frameborder="0" width="640">Загрузка&amp;amp;amp;amp;amp;hellip;</iframe>
           </div>
         </div>
       </section>
       <section class="ft-feature-1 section">
         <div class="container">
-          <div class="align-items-stretch row">
-          </div>
+          <div class="align-items-stretch row"> </div>
         </div>
       </section>
       <div class="site-section" id="about-section">
@@ -221,7 +225,7 @@
           <div class="row">
             <div class="col-md-7 mb-5"> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeKpK8dw8I8m-nS55uPSSnc6GhZ1QkT_tHUx0VD1HVJDqDTNQ/viewform?embedded=true"
 
-                marginheight="0" marginwidth="0" height="600" frameborder="0" width="400">Загрузка&amp;amp;amp;amp;hellip;</iframe>
+                marginheight="0" marginwidth="0" height="600" frameborder="0" width="400">Загрузка&amp;amp;amp;amp;amp;hellip;</iframe>
             </div>
             <div class="col-md-5">
               <div class="bg-white mb-3 p-4">
@@ -261,11 +265,9 @@
                   <p><a href="#" style="background-color: rgb(51, 51, 51); font-size: 1rem;">About
                       Us</a></p>
                   <ul class="list-unstyled">
-                    <li>
-                      <br>
+                    <li> <br>
                     </li>
-                    <li>
-                      <br>
+                    <li> <br>
                     </li>
                     <li> <a href="#">Contact Us</a> </li>
                   </ul>
