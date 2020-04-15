@@ -4917,3 +4917,4 @@
 .icon-zoom_out_map:before {
   content: "\e56b";
 }
+@media only screen and (max-width: 1080px){#fotografiya{display: none}}
